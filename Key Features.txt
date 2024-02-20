@@ -1,0 +1,3 @@
+1. Loads and preprocesses the MNIST dataset. Builds a neural network with 3 hidden layers and a softmax output layer. 
+2. Compiles the model with the Nadam optimizer and categorical crossentropy loss. Trains the model for 10 epochs with a batch size of 1024. 
+3. Evaluates the model's performance on the test set. Makes predictions on individual test images.
