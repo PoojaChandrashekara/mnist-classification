@@ -6,10 +6,8 @@ This project implements a neural network to classify handwritten digits from the
 ## Project Structure
 
 - `README.md`: This file provides general information about the project.
-- `mnist_classification.py`: Contains the Python code for building and training the model.
+- `mnist_ann.ipynb`: Contains the Python code for building and training the model.
 - `requirements.txt`: Lists the required Python libraries.
-- (Optional) `data`: Directory to store the MNIST dataset (if not downloaded automatically).
-- (Optional) `models`: Directory to store saved model weights.
 
 ## Usage
 
